@@ -1,6 +1,6 @@
 # Batalha Naval vs IA usando Pygame
 
-Este é um jogo de Batalha Naval clássico implementado usando a biblioteca Pygame em Python. O jogo permite que um jogador posicione seus navios em um tabuleiro e, em seguida, tente afundar os navios da Inteligência Artificial (IA) no tabuleiro adversário.
+Este é um jogo de Batalha Naval clássico implementado usando a biblioteca Pygame em Python, usando POO. O jogo permite que um jogador posicione seus navios em um tabuleiro e, em seguida, tente afundar os navios da Inteligência Artificial (IA) no tabuleiro adversário.
 
 ## Como Jogar
 
